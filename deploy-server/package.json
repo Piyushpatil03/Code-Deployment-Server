@@ -1,0 +1,20 @@
+{
+  "name": "deploy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.10",
+    "aws-sdk": "^2.1658.0",
+    "child_process": "^1.0.2",
+    "child-process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "redis": "^4.6.15"
+  }
+}
